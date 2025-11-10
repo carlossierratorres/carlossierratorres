@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Carlos Sierra Torres
 
-<!--
-**carlossierratorres/carlossierratorres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**IT Support Engineer | Automation & Project Leader**
 
-Here are some ideas to get you started:
+With over 15 years of experience in IT support, process automation, and data analysis. I specialize in managing cloud platforms (Google Workspace, Microsoft 365, Intune) and developing automation solutions using ChatBots and RPA tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Tech Stack
+**Languages:** JavaScript (Node.js), Python, SQL, Bash, PowerShell  
+**Tools & Platforms:** Google Workspace, Microsoft 365, Intune, Bitdefender, Jira, Confluence, Slack  
+**Automation:** WhatsApp ChatBots, APIs, RPA  
+**Data Analysis:** Power BI, Metabase
+
+---
+
+## 💼 Experience Highlights
+- **DevSavant Inc.** – IT Support Engineer (Remote, 2024–2025)  
+  Cloud administration, device management (MDM), and automation of onboarding processes.
+- **Kanaryo SAS** – Project & Support Engineer (2021–2024)  
+  ChatBot automation for clients such as EPM, Nutresa, and Medellín City Hall.
+
+---
+
+## 🎓 Certifications
+- Scrum Master Professional Certificate – CertiProf  
+- ITIL Foundations – TIVIT Academy  
+- Power BI – Cámara de Comercio de Medellín  
+- Network Security – SENA
+
+---
+
+## 📫 Contact
+📍 Medellín, Colombia  
+✉️ [ing.carlossierratorres@gmail.com](mailto:ing.carlossierratorres@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/carlos-sierra-torres)
